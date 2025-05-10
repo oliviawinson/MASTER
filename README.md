@@ -1,2 +1,3 @@
 # MASTER
-Code used to execute methods and generate results presented in the master thesis.This repository contains the code used for the analysis of the master's thesis. This study aimed to find MR imaging markers for the stratification of Parkinson's Disease (PD), and it's subtypes postural instability and gait disorder (PIGD) and tremor dominant motor phenotype (TD). This was done by analyzing normalized voxel intensities of the regions substantia nigra pars compacta (SNpc), locus coeruleus (LC) and putamen, using statistical tests and Generalized Linear Models (GLMs).
+Code used to execute methods and generate results presented in the master thesis.
+- This study aimed to find MR imaging markers for the stratification of Parkinson's Disease (PD), and it's subtypes postural instability and gait disorder (PIGD) and tremor dominant motor phenotype (TD).
