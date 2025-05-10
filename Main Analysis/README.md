@@ -1,0 +1,8 @@
+This folder contains the jupyter notebook 'data_analysis.ipynb' which contains all the analysis performed after extraction of mean intensities from the ROI's.
+This notebook includes, 
+* Normalization of mean intensities from SNpc, LC and putamen on WM intensities
+* Merging of the MRI data into one combined MRI dataset
+* Merging MRI data with clinical data into one total dataset
+* Statistical tests performed (two group comparisons, laterality assessment, multiple group comparisons, effect size calculation)
+* Generalized Linear Model (GLM) analysis
+* Code for all plots presented in the results chapter.
