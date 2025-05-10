@@ -1,4 +1,4 @@
-This folder contains all the jupyter notebooks used to extract mean intensities from substantia nigra pars compacta (SNpc), locus coeruleus (LC), putamen and white matter (WM) region in frontal cortex, across the MR images.
+This folder contains all the notebooks used to extract mean voxel intensities from substantia nigra pars compacta (SNpc), locus coeruleus (LC), putamen and a white matter (WM) region in frontal cortex, across the MR images.
 1. Mean intensity extraction from WM region in frontal cortex
    * wm_extraction.ipynb
 
