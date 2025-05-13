@@ -1,4 +1,4 @@
-This folder contains the notebook 'data_analysis.ipynb' which contains all the analysis performed after extraction of mean voxel intensities from the ROI's.
+This folder contains the notebook 'data_analysis.ipynb' which contains all the analysis performed after extraction of mean signal intensities from the ROI's.
 This notebook includes, 
 * Normalization of mean intensities from SNpc, LC and putamen on WM intensities
 * Merging of the MRI data into one combined MRI dataset
